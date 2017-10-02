@@ -21,7 +21,7 @@ After this lesson, you'll be able to
 * Practice Exercise
 
 ## Slides
-@[gslides](1gEb00r1CyjxWignP0JC84UArH7qny05p-CQhMdBcu2o)
+@[gslides](1HF5i6JrRhau7akpzl_ztjy_spSaMZlXtNBVs4VgH6Lc)
 
 ## Download 
 * [Download for Linux](https://github.com/greyatom-edu-tech/greyatom-ide/releases/download/v4.4.10/commit_live-amd64.deb)
