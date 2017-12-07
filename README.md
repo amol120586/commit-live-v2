@@ -26,7 +26,7 @@ After this lesson, you'll be able to
 ## Download 
 * [Download for Linux](https://github.com/greyatom-edu-tech/greyatom-ide/releases/download/v4.4.16/Commit-Live.deb)
   * If Atom is already installed this will replace your Atom, please save your settings if you have any
-  * To install use command `sudo dpkg -I <downloaded-file-path>` 
+  * To install use command `sudo dpkg -i <downloaded-file-path>` 
 * [Download for MacOS X](https://github.com/greyatom-edu-tech/greyatom-ide/releases/download/v4.4.16/Commit-Live.dmg)
 * [Download for Windows](https://github.com/greyatom-edu-tech/greyatom-ide/releases/download/v4.4.16/Commit-Live.exe)
 
